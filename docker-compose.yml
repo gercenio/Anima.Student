@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  zedelivery-api:
+    container_name: zedelivery-api
+    restart: always
+    build: .
+    environment:
+      - DBHOST=dot-net-mysql-db
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports: 
+      - '5000:8080'
+    depends_on:
+      - dot-net-mysql-db
+
+  dot-net-mysql-db:
+    container_name: docker-dot-net-mysql-db
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: Zedb
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
+    volumes:
+      - mysqldbdata:/var/lib/mysql
+
+volumes:
+  mysqldbdata:
