@@ -171,6 +171,7 @@
       <e p="Domain" t="Include" />
       <e p="Infrastructure" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="SQLScripts" t="Include" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Anima.Student.1950609501.00" t="ExcludeRecursive" />
