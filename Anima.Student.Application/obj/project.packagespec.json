@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+    "projectName": "Anima.Student.Application",
+    "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+    "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "http://10.33.1.34:8081/repository/nuget-group/": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+          },
+          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "FluentValidation": {
+          "target": "Package",
+          "version": "[8.6.2, )"
+        },
+        "MediatR": {
+          "target": "Package",
+          "version": "[8.0.1, )"
+        },
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+    }
+  }
+}

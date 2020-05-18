@@ -1,0 +1,8 @@
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/bin/Debug/netcoreapp3.1/Anima.Student.Domain.deps.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/bin/Debug/netcoreapp3.1/Anima.Student.Domain.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/bin/Debug/netcoreapp3.1/Anima.Student.Domain.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/Debug/netcoreapp3.1/Anima.Student.Domain.csprojAssemblyReference.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/Debug/netcoreapp3.1/Anima.Student.Domain.AssemblyInfoInputs.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/Debug/netcoreapp3.1/Anima.Student.Domain.AssemblyInfo.cs
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/Debug/netcoreapp3.1/Anima.Student.Domain.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/Debug/netcoreapp3.1/Anima.Student.Domain.pdb

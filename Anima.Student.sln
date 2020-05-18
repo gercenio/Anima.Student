@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{51B9B92A-BBCC-4AB3-85C6-31033CB7A943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima.Student.Domain", "Anima.Student.Domain\Anima.Student.Domain.csproj", "{22E535BC-61B7-4D3F-AE36-E14B435CC335}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{60029225-2842-4C73-B85F-4ECBA5B28ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima.Student.Infra.Data", "Anima.Student.Infra.Data\Anima.Student.Infra.Data.csproj", "{99A57FE3-1382-4672-8F7C-7033C6150007}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapters", "Adapters", "{086DD07E-4D6A-45B9-884E-DC4D0A62788C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D746E4CD-4AEA-430B-9DE7-E80023911C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima.Student.Application", "Anima.Student.Application\Anima.Student.Application.csproj", "{5EE4094B-E12B-436F-976C-0D8F1D89B5B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{96F56972-A71E-47C7-903C-EB69FB485357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anima.Student.Adapter.Api", "Anima.Student.Adapter.Api\Anima.Student.Adapter.Api.csproj", "{BF59D73B-1879-4B7B-A0A0-CB041144B3FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22E535BC-61B7-4D3F-AE36-E14B435CC335} = {51B9B92A-BBCC-4AB3-85C6-31033CB7A943}
+		{99A57FE3-1382-4672-8F7C-7033C6150007} = {60029225-2842-4C73-B85F-4ECBA5B28ED5}
+		{5EE4094B-E12B-436F-976C-0D8F1D89B5B0} = {D746E4CD-4AEA-430B-9DE7-E80023911C6F}
+		{96F56972-A71E-47C7-903C-EB69FB485357} = {086DD07E-4D6A-45B9-884E-DC4D0A62788C}
+		{BF59D73B-1879-4B7B-A0A0-CB041144B3FD} = {96F56972-A71E-47C7-903C-EB69FB485357}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E535BC-61B7-4D3F-AE36-E14B435CC335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E535BC-61B7-4D3F-AE36-E14B435CC335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E535BC-61B7-4D3F-AE36-E14B435CC335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E535BC-61B7-4D3F-AE36-E14B435CC335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A57FE3-1382-4672-8F7C-7033C6150007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A57FE3-1382-4672-8F7C-7033C6150007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A57FE3-1382-4672-8F7C-7033C6150007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A57FE3-1382-4672-8F7C-7033C6150007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE4094B-E12B-436F-976C-0D8F1D89B5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE4094B-E12B-436F-976C-0D8F1D89B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE4094B-E12B-436F-976C-0D8F1D89B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE4094B-E12B-436F-976C-0D8F1D89B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF59D73B-1879-4B7B-A0A0-CB041144B3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF59D73B-1879-4B7B-A0A0-CB041144B3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF59D73B-1879-4B7B-A0A0-CB041144B3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF59D73B-1879-4B7B-A0A0-CB041144B3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

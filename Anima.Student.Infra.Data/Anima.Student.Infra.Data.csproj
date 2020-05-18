@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EntityFramework" Version="6.4.4" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.4" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.4" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.4" />
+      <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Anima.Student.Domain\Anima.Student.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

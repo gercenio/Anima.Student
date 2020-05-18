@@ -1,0 +1,15 @@
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Application.deps.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Application.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Application.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.csprojAssemblyReference.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.AssemblyInfoInputs.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.AssemblyInfo.cs
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Domain.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Domain.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/Debug/netcoreapp3.1/Anima.Student.Application.csproj.CopyComplete
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Application.runtimeconfig.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Application.runtimeconfig.dev.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.pdb

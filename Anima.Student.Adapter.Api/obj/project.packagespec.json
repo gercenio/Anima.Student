@@ -1,0 +1,89 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Adapter.Api/Anima.Student.Adapter.Api.csproj",
+    "projectName": "Anima.Student.Adapter.Api",
+    "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Adapter.Api/Anima.Student.Adapter.Api.csproj",
+    "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Adapter.Api/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "http://10.33.1.34:8081/repository/nuget-group/": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj"
+          },
+          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+          },
+          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "FluentValidation": {
+          "target": "Package",
+          "version": "[8.6.2, )"
+        },
+        "FluentValidation.AspNetCore": {
+          "target": "Package",
+          "version": "[8.6.2, )"
+        },
+        "MediatR": {
+          "target": "Package",
+          "version": "[8.0.1, )"
+        },
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[8.0.0, )"
+        },
+        "Microsoft.Extensions.PlatformAbstractions": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.4.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+    }
+  }
+}

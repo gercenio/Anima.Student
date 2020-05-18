@@ -1,0 +1,13 @@
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.deps.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.runtimeconfig.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.runtimeconfig.dev.json
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Infra.Data.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.csprojAssemblyReference.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.AssemblyInfoInputs.cache
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.AssemblyInfo.cs
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Domain.dll
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/bin/Debug/netcoreapp3.1/Anima.Student.Domain.pdb
+/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/Debug/netcoreapp3.1/Anima.Student.Infra.Data.csproj.CopyComplete
