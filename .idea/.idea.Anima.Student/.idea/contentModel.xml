@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Adapters" t="Include">
+        <e p="Api" t="Include" />
+      </e>
+      <e p="Anima.Student.Adapter.Api" t="IncludeRecursive">
+        <e p="Anima.Student.Adapter.Api.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SchoolController.cs" t="Include" />
+        </e>
+        <e p="Mappers" t="Include">
+          <e p="CriarAlunoModelMapper.cs" t="Include" />
+          <e p="CriarGradeModelMapper.cs" t="Include" />
+          <e p="CriarMatriculaModelMapper.cs" t="Include" />
+          <e p="CriarProfessorModelMapper.cs" t="Include" />
+          <e p="DeletarMatriculaModelMapper.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="CriarAlunoModel.cs" t="Include" />
+          <e p="CriarGradeModel.cs" t="Include" />
+          <e p="CriarMatriculaModel.cs" t="Include" />
+          <e p="CriarProfessorModel.cs" t="Include" />
+          <e p="DeletarMatriculaModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Anima.Student.Adapter.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Anima.Student.Application" t="IncludeRecursive">
+        <e p="Anima.Student.Application.csproj" t="IncludeRecursive" />
+        <e p="Behaviors" t="Include">
+          <e p="FailFastRequestBehavior.cs" t="Include" />
+          <e p="LoggingBehavior.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Commands" t="Include">
+          <e p="Request" t="Include">
+            <e p="CreatedCurriculumCommandRequest.cs" t="Include" />
+            <e p="CreatedEmployeeCommandRequest.cs" t="Include" />
+            <e p="CreatedSchoolEnrollmentCommandRequest.cs" t="Include" />
+            <e p="CreatedStudentCommandRequest.cs" t="Include" />
+            <e p="DeleteSchoolEnrollmentCommandRequest.cs" t="Include" />
+            <e p="GetCurriculumByCodeCommandRequest.cs" t="Include" />
+            <e p="GetEmployeeByDocumentCommandRequest.cs" t="Include" />
+          </e>
+          <e p="Response" t="Include">
+            <e p="CreatedCurriculumCommandResponse.cs" t="Include" />
+            <e p="CreatedEmployeeCommandResponse.cs" t="Include" />
+            <e p="CreatedSchoolEnrollmentCommandResponse.cs" t="Include" />
+            <e p="CreatedStudentCommandResponse.cs" t="Include" />
+            <e p="DeleteSchoolEnrollmentCommandResponse.cs" t="Include" />
+            <e p="GetCurriculumByCodeCommandResponse.cs" t="Include" />
+            <e p="GetEmployeeByDocumentCommandResponse.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Core" t="Include">
+          <e p="Response.cs" t="Include" />
+        </e>
+        <e p="Handlers" t="Include">
+          <e p="UseCases" t="Include">
+            <e p="CreatedCurriculumHandler.cs" t="Include" />
+            <e p="CreatedEmployeeHandler.cs" t="Include" />
+            <e p="CreatedSchoolEnrollmentHandler.cs" t="Include" />
+            <e p="CreatedStudentHandler.cs" t="Include" />
+            <e p="DeleteSchoolEnrollmentHandler.cs" t="Include" />
+            <e p="GetCurriculumByCodeHandler.cs" t="Include" />
+            <e p="GetEmployeeByDocumentHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Anima.Student.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Validations" t="Include">
+          <e p="CreatedEmployeeValidation.cs" t="Include" />
+          <e p="CreatedSchoolEnrollmentValidation.cs" t="Include" />
+          <e p="CreatedStudentValidation.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Anima.Student.Domain" t="IncludeRecursive">
+        <e p="Anima.Student.Domain.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Curriculum.cs" t="Include" />
+          <e p="Employee.cs" t="Include" />
+          <e p="People.cs" t="Include" />
+          <e p="SchoolEnrollment.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="Enuns" t="Include">
+          <e p="PeopleType.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Anima.Student.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Anima.Student.Infra.Data" t="IncludeRecursive">
+        <e p="Anima.Student.Infra.Data.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="MySql" t="Include">
+            <e p="MySqlContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Dtos" t="Include">
+          <e p="CurriculumDto.cs" t="Include" />
+          <e p="EmployeeDto.cs" t="Include" />
+          <e p="PeopleDto.cs" t="Include" />
+          <e p="SchoolEnrollmentDto.cs" t="Include" />
+          <e p="StudentDto.cs" t="Include" />
+          <e p="UserDto.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="ICurriculumRepository.cs" t="Include" />
+          <e p="IEmployeeRepository.cs" t="Include" />
+          <e p="IPeopleRepository.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="ISchoolEnrollmentRepository.cs" t="Include" />
+          <e p="IStudentRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+        <e p="Mappers" t="Include">
+          <e p="CurriculumDtoMapper.cs" t="Include" />
+          <e p="EmployeeDtoMapper.cs" t="Include" />
+          <e p="PeopleDtoMapper.cs" t="Include" />
+          <e p="SchoolEnrollmentDtoMapper.cs" t="Include" />
+          <e p="StudentDtoMapper.cs" t="Include" />
+          <e p="UserDtoMapper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Anima.Student.Infra.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="CurriculumRepository.cs" t="Include" />
+          <e p="EmployeeRepository.cs" t="Include" />
+          <e p="PeopleRepository.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
+          <e p="SchoolEnrollmentRepository.cs" t="Include" />
+          <e p="StudentRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Anima.Student.sln" t="IncludeFlat" />
+      <e p="Application" t="Include" />
+      <e p="Domain" t="Include" />
+      <e p="Infrastructure" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Anima.Student.1950609501.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>

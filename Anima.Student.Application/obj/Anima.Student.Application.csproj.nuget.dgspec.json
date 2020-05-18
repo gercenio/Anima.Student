@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj": {}
+    "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj": {}
   },
   "projects": {
-    "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj": {
+    "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+        "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
         "projectName": "Anima.Student.Application",
-        "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+        "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
         "packagesPath": "/Users/gercenioxavier/.nuget/packages/",
-        "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/",
+        "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -29,11 +29,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
-                "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+              "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+                "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
               },
-              "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
-                "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
+              "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
+                "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+    "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+        "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
         "projectName": "Anima.Student.Domain",
-        "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+        "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
         "packagesPath": "/Users/gercenioxavier/.nuget/packages/",
-        "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/",
+        "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -133,14 +133,14 @@
         }
       }
     },
-    "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
+    "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
+        "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
         "projectName": "Anima.Student.Infra.Data",
-        "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
+        "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
         "packagesPath": "/Users/gercenioxavier/.nuget/packages/",
-        "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/",
+        "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -158,8 +158,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
-                "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+              "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+                "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
               }
             }
           }

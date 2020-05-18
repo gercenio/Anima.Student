@@ -1,8 +1,8 @@
 version: "3"
 
 services:
-  zedelivery-api:
-    container_name: zedelivery-api
+  animadigital-api:
+    container_name: animadigital-api
     restart: always
     build: .
     environment:

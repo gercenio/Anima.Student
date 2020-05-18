@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+      "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
       "projectName": "Anima.Student.Domain",
-      "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+      "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
       "packagesPath": "/Users/gercenioxavier/.nuget/packages/",
-      "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/",
+      "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

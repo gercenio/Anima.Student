@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+    "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
     "projectName": "Anima.Student.Application",
-    "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
-    "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Application/obj/",
+    "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/Anima.Student.Application.csproj",
+    "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Application/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -19,11 +19,11 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
-            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+          "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
           },
-          "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
-            "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
+          "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj": {
+            "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj"
           }
         }
       }

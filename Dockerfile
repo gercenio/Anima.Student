@@ -31,5 +31,5 @@ RUN apt-get update && \
 
 WORKDIR /app
 COPY --from=0 /app .
-CMD ["/bin/bash", "-c", "dotnet ZeDelivery.Partner.Adapter.Api.dll"]
+CMD ["/bin/bash", "-c", "dotnet Anima.Student.Adapter.Api.dll"]
 EXPOSE ${port}

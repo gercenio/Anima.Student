@@ -1865,11 +1865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
+      "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
       "projectName": "Anima.Student.Infra.Data",
-      "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
+      "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/Anima.Student.Infra.Data.csproj",
       "packagesPath": "/Users/gercenioxavier/.nuget/packages/",
-      "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Infra.Data/obj/",
+      "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Infra.Data/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1887,8 +1887,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
-              "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
+            "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj": {
+              "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj"
             }
           }
         }

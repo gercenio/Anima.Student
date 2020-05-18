@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+    "projectUniqueName": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
     "projectName": "Anima.Student.Domain",
-    "projectPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
-    "outputPath": "/Users/gercenioxavier/developer/poc/anima/Anima.Student/Anima.Student.Domain/obj/",
+    "projectPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/Anima.Student.Domain.csproj",
+    "outputPath": "/Users/gercenioxavier/developer/poc/Anima.Student/Anima.Student.Domain/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
